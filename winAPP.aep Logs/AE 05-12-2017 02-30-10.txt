@@ -1,0 +1,12 @@
+Adobe After Effects v14.1 Windows 64 render log for project “winAPP.aep”
+
+Rendering started on 05-12-2017 at 02:30:10
+
+  05-12-2017 02:30:10: Starting composition “Comp 2”.
+
+  Output To: C:\Users\Time Traveller\Desktop\WINAPP\Final_Footages\Ic1.png  After Effects error: Can't overwite file “C:\Users\Time Traveller\Desktop\WINAPP\Final_Footages\Ic1.png”. (3  ::  3)After Effects warning: Could not delete the file 'C:\Users\Time Traveller\Desktop\WINAPP\Final_Footages\Ic1.png'.  05-12-2017 02:30:10: Finished composition “Comp 2”.
+
+
+  Total Time Elapsed: 0 Seconds
+Log closed on 05-12-2017 at 02:30:10
+

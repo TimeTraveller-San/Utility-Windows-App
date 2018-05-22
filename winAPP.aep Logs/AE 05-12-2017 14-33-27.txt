@@ -1,0 +1,12 @@
+Adobe After Effects v14.1 Windows 64 render log for project “winAPP.aep”
+
+Rendering started on 05-12-2017 at 14:33:27
+
+  05-12-2017 14:33:27: Starting composition “Comp 1”.
+
+  Output To: C:\Users\Time Traveller\Desktop\WINAPP\Final_Footages\BG6.png  After Effects error: Can't overwite file “C:\Users\Time Traveller\Desktop\WINAPP\Final_Footages\BG6.png”. (3  ::  3)  didn’t delete empty file “BG6.png” because it was larger than expected. (26  ::  170)  05-12-2017 14:33:28: Finished composition “Comp 1”.
+
+
+  Total Time Elapsed: 0 Seconds
+Log closed on 05-12-2017 at 14:33:28
+

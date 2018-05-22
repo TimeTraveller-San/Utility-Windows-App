@@ -1,0 +1,12 @@
+What will this app do?
+>It will open things I frequently visit
+
+What are things?
+>Apps->Chrome, Discord, Torrent, Opera
+>Music-> Jap, vaporwave, rock, long, GAS
+>Code ->Brackets,VisualStudio,Devc++,Atom 
+>Graphics->Ae, PS, AI, zbrush, paint, Movie Maker
+>Games->Tekken,Nekopara,NFS, fortnite
+>Drives-> Downloads, C,D,E,F, Docs, All
+>Misc->Notepad, Calc, control panel, Fraps
+

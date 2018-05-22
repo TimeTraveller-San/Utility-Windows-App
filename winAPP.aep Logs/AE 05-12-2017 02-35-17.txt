@@ -1,0 +1,12 @@
+Adobe After Effects v14.1 Windows 64 render log for project “winAPP.aep”
+
+Rendering started on 05-12-2017 at 02:35:17
+
+  05-12-2017 02:35:17: Starting composition “Comp 2”.
+
+  Output To: C:\Users\Time Traveller\Desktop\WINAPP\Final_Footages\ico2.png    05-12-2017 02:35:17: Finished composition “Comp 2”.
+
+
+  Total Time Elapsed: 0 Seconds
+Log closed on 05-12-2017 at 02:35:17
+
